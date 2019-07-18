@@ -1,0 +1,12 @@
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.pdb

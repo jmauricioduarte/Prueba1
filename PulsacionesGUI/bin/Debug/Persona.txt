@@ -1,0 +1,6 @@
+1065851827;Jose Mauricio Duarte Gelvez;20;m;elkpoo77@gmail.com;19;
+1065;Ana Yoleth Angulo;21;f;anayoleth93@gmail.com;19;
+106582;Eduardo;20;m;eduardotapiapadilla@gmail.com;19;
+10365298;Tapia eduardo;20;m;eduardotapiapadilla@gmail.com;19;
+1065825;Jhon;22;m;jhonperalta13@gmail.com;18;
+103258;Anya Bolaño;25;f;anyambolano@unicesar.edu.co;19;

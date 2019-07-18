@@ -1,0 +1,14 @@
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\Mauricio ge\source\repos\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.pdb
